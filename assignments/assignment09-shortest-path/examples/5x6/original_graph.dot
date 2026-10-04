@@ -1,0 +1,10 @@
+graph OriginalGraph {
+  node [shape=circle];
+    0 -- 4 [label="37"];
+    0 -- 3 [label="45"];
+    1 -- 3 [label="26"];
+    2 -- 3 [label="20"];
+    3 -- 4 [label="33"];
+    3 -- 4 [label="17"];
+  label="Original Graph";
+}

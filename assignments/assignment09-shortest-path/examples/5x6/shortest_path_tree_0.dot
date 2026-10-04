@@ -1,0 +1,8 @@
+graph ShortestPathTree {
+  node [shape=circle];
+    3 -- 1 [label="26"];
+    3 -- 2 [label="20"];
+    0 -- 3 [label="45"];
+    0 -- 4 [label="37"];
+  label="Shortest Path Tree from Vertex 0";
+}

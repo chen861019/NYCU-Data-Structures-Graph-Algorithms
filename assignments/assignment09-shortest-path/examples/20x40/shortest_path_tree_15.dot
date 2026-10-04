@@ -1,0 +1,23 @@
+graph ShortestPathTree {
+  node [shape=circle];
+    3 -- 0 [label="21"];
+    5 -- 1 [label="43"];
+    4 -- 2 [label="30"];
+    11 -- 3 [label="41"];
+    15 -- 4 [label="27"];
+    15 -- 5 [label="34"];
+    8 -- 6 [label="10"];
+    6 -- 7 [label="17"];
+    15 -- 8 [label="6"];
+    17 -- 9 [label="14"];
+    2 -- 10 [label="5"];
+    4 -- 11 [label="2"];
+    8 -- 12 [label="33"];
+    19 -- 13 [label="19"];
+    4 -- 14 [label="27"];
+    11 -- 16 [label="7"];
+    11 -- 17 [label="18"];
+    11 -- 18 [label="35"];
+    6 -- 19 [label="31"];
+  label="Shortest Path Tree from Vertex 15";
+}

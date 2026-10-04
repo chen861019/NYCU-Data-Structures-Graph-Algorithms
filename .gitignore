@@ -1,0 +1,10 @@
+build/
+.local/
+__pycache__/
+*.exe
+*.o
+*.obj
+*.docx
+*.pdf
+*.xlsx
+*.bkp

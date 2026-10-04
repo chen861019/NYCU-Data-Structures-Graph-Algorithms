@@ -1,0 +1,765 @@
+[
+  {
+    "source": "Programming_Assignment_I/Programming_Assignment_I.c",
+    "destination": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+    "source_encoding": "cp950",
+    "source_sha256": "38578db8c2c4cfc27a1f0eac19bd9a8a6cf373cb5ef1098c7eff90bdc11c79ef",
+    "imported_sha256": "e17eceba2d5dff070c694cc3f1423a23ca5f8dbe71761d4e4c4951ad7db997bc"
+  },
+  {
+    "source": "Programming_Assignment_II/p2_1.c",
+    "destination": "assignments/assignment02-sorting/src/p2_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2f9d3f18396d92d1a40d719f7518db1b1a15afedebeaa23dc7e05ca07c173112",
+    "imported_sha256": "504b28f240b4eb9c28191d6655cdd9a58fbd90027a8153011bc5b7a3ba1a8d13"
+  },
+  {
+    "source": "Programming_Assignment_II/P2_2.c",
+    "destination": "assignments/assignment02-sorting/src/P2_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "88c87f561a5c1fac3baf22f3856f77959e45f9a71a2d7f6ec35edc9d8554e981",
+    "imported_sha256": "7129f72083e50476c314fea056ef06cd2499658c04450fc44aabdfdcc6e74553"
+  },
+  {
+    "source": "Programming_Assignment_II/p2_3r.c",
+    "destination": "assignments/assignment02-sorting/src/p2_3r.c",
+    "source_encoding": "cp950",
+    "source_sha256": "5b3c4ed972ffab0b53a159c5914ac1fe8f2f19065acae00745af0d2a40015d4a",
+    "imported_sha256": "09fdd62d00dfbc2b23a22b14be269c383cafc4d21638819553d707365f6e4fba"
+  },
+  {
+    "source": "Programming_Assignment_II/p2_3s.c",
+    "destination": "assignments/assignment02-sorting/src/p2_3s.c",
+    "source_encoding": "cp950",
+    "source_sha256": "9bd4cd46d1cfa8a4d8a1f8260630d82a0623c87525447fd5adaee05ea898070b",
+    "imported_sha256": "65d2c7f8cdd6054fae96c40c830d1c8fd484004ca542d2ebe604845257895762"
+  },
+  {
+    "source": "Programming_Assignment_II/test.c",
+    "destination": "assignments/assignment02-sorting/archive/test.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2d4e918eef9b4f9eff24881330590070f9009a128b0806613b234bcaa6464cdb",
+    "imported_sha256": "208c53c252397e68f1b4655079e4f1294b7b0072bafd6124b4e45040448a9bc9"
+  },
+  {
+    "source": "Programming_Assignment_III/bfs.c",
+    "destination": "assignments/assignment03-maze/archive/bfs.c",
+    "source_encoding": "cp950",
+    "source_sha256": "e179894e42bc4d7239795b9b0849d0cf103171b5fc7516eb6e6cf2302e07ec4d",
+    "imported_sha256": "b0f7dea5f12c2fb0756ddf794fc93c85987d790990b102c0c6db9f4bad3442dd"
+  },
+  {
+    "source": "Programming_Assignment_III/display.c",
+    "destination": "assignments/assignment03-maze/archive/display.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1fcc908f0d369b767da316db25170f3c5904124d319d9fd48a25e12fb86beec3",
+    "imported_sha256": "43bd468f27b74dc54f29409c2458133dda0d017f0c512d140eed60ed21d59c86"
+  },
+  {
+    "source": "Programming_Assignment_III/g.c",
+    "destination": "assignments/assignment03-maze/archive/g.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2bbbf8a161f6c95cb91222ef192565bce9eb2e0a5cc9ab11f40f7c1dca76edc2",
+    "imported_sha256": "314d5913f378fe74c262f49e367ccad9a039b59978bcb371b513d55dac3785f6"
+  },
+  {
+    "source": "Programming_Assignment_III/input.c",
+    "destination": "assignments/assignment03-maze/archive/input.c",
+    "source_encoding": "cp950",
+    "source_sha256": "43e479f315a36ac57b8aab3d53e39d41cea722e482699df9df33a51d83c9891f",
+    "imported_sha256": "5a5bb0dd43c61ed181027b9ad80c6e7cfd5e3e08ee538cb32c2277f712611707"
+  },
+  {
+    "source": "Programming_Assignment_III/p3_1.c",
+    "destination": "assignments/assignment03-maze/archive/p3_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "9e095e1acbdab7b7a31ecb8f919ac0e77e794282ef4eed998287bd54826b8882",
+    "imported_sha256": "1388448e4b3d81ea9ffea958fee8f3686ba200a52808c3d58e22211527a37923"
+  },
+  {
+    "source": "Programming_Assignment_III/p3_2.c",
+    "destination": "assignments/assignment03-maze/archive/p3_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "c9af7adf9c04465d6dc43da98296c0f63a7b3e53c7a8bd4b2774f0cba97eab58",
+    "imported_sha256": "f50b1061b9642db019187e686f7c1876992cb804ff9f9b421261dc8dbf59aea6"
+  },
+  {
+    "source": "Programming_Assignment_III/P3_3.c",
+    "destination": "assignments/assignment03-maze/archive/P3_3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "76c397f75f08db8c39d40eac94e1fad4e66a3e7b98462d71a9657ef6c1c785a1",
+    "imported_sha256": "0070d5339f603b46cc1e408557177612f5b4236fd144f7db52734d83df39eb17"
+  },
+  {
+    "source": "Programming_Assignment_III/Programming_Assignment_III.c",
+    "destination": "assignments/assignment03-maze/src/Programming_Assignment_III.c",
+    "source_encoding": "cp950",
+    "source_sha256": "665324e460a7eac42b045d5944eabe7488515d205f5e4067a6784681a69e3248",
+    "imported_sha256": "f795e8d92350224177e2633a464d137da8ce74225216d24357e99408cef76829"
+  },
+  {
+    "source": "Programming_Assignment_III/test.c",
+    "destination": "assignments/assignment03-maze/archive/test.c",
+    "source_encoding": "cp950",
+    "source_sha256": "de1dbe053e2edd5943cf7d0bb3c122d063d11785f9068557195158864b910292",
+    "imported_sha256": "45425452d81cf1b86c9351d04a9cc687bc8ba45697568ac694999b2b3ce92d5e"
+  },
+  {
+    "source": "Programming_Assignment_III/test_1.c",
+    "destination": "assignments/assignment03-maze/archive/test_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "95e88ec309c1b68d0a5de0da5e452dd894e76885b279345921ad5a34e95e36ff",
+    "imported_sha256": "b5f83c95396a298aa7e4adc397ac602f4ea21a6cbb838130bab589e1813fc380"
+  },
+  {
+    "source": "Programming_Assignment_IV/input.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/input.c",
+    "source_encoding": "cp950",
+    "source_sha256": "4e13a22f383a5e21b370bad3ce41977672f512b9ecae5819fc4e905f88336ef8",
+    "imported_sha256": "2b205a1a7596a2d889188a7beda73f8c1420c084752162da6fb5b607bbde622f"
+  },
+  {
+    "source": "Programming_Assignment_IV/linked_list.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/linked_list.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2c94b441216a1627d8a1365d35de80eb54ecd3842fc6a341f5b62a1252f71be7",
+    "imported_sha256": "4d34dd451c8ce0fe69b13534df7c878b75fc56122b1fcc01bc81ccd26dcaff4c"
+  },
+  {
+    "source": "Programming_Assignment_IV/NEW_TEST4.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/NEW_TEST4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "ce788818ac40aae53f52200ae30c5a9d38208f2133a5217bbe28d404cd3b71dd",
+    "imported_sha256": "c954dd95df09d5cbcde912d54e9af592b2b257b1c80a41282a866ff598240eac"
+  },
+  {
+    "source": "Programming_Assignment_IV/p4.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/p4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "5116b3d6067da3144a19db06b93129b7dfc7b0862f410c533205cbebf1ffe4c6",
+    "imported_sha256": "12de1378bc9fea7257ad01bea0d9d743394b60dbc32dab363b1ee9fcd573f68b"
+  },
+  {
+    "source": "Programming_Assignment_IV/Programming_Assignment_IV.c",
+    "destination": "assignments/assignment04-sparse-matrix/src/Programming_Assignment_IV.c",
+    "source_encoding": "cp950",
+    "source_sha256": "8e3b46b5013498fa3d6bad2d4da6f34e36c33d3a7f5841fcd80375545ef5b811",
+    "imported_sha256": "3a2c93bc651fee3f7998d81e5672046f7c21bd0538cf69b00acf6e16ea31359e"
+  },
+  {
+    "source": "Programming_Assignment_IV/size.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/size.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2cfab422dfdd470d6f1ea09fd4462b37144bacb21dd50afb660f4fe0d1d5bb80",
+    "imported_sha256": "4ad97394532f2e90c38e859eda5e290bd111d2b3c48895005cb024c2064a9495"
+  },
+  {
+    "source": "Programming_Assignment_IV/test.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/test.c",
+    "source_encoding": "cp950",
+    "source_sha256": "a953fbb95d797607b40819b05a47b0d3609885616c105ae8018638ff896baf45",
+    "imported_sha256": "a7f7951e5261b2e854e9acb684dce4b7dc03736679ebebf6db994678300338f7"
+  },
+  {
+    "source": "Programming_Assignment_IV/test_1.c",
+    "destination": "assignments/assignment04-sparse-matrix/archive/test_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6102b45a8bca63fb6a1cfd7d00d1b24bde533fc388cf7bb880bb419122b290ae",
+    "imported_sha256": "cf4613edce79e21ef45b16ec8c38244b08cd46bb7be537a651348ad0679ef848"
+  },
+  {
+    "source": "Programming_Assignment_V/p5.c",
+    "destination": "assignments/assignment05-expression/archive/p5.c",
+    "source_encoding": "cp950",
+    "source_sha256": "f4150fdb71fdcc51d02c05cacd5cab4034bc83aa73fea55c2f616821994a6daf",
+    "imported_sha256": "4035718eb3d3130bb830c5009e6408dc20cdac8192e998989c4d0deb89a7ef39"
+  },
+  {
+    "source": "Programming_Assignment_V/Programming_Assignment_V.c",
+    "destination": "assignments/assignment05-expression/src/Programming_Assignment_V.c",
+    "source_encoding": "cp950",
+    "source_sha256": "048fd804878d7508d78d40128b845879dd259adb21f1d353872f3d4b5c5867ff",
+    "imported_sha256": "c03a3dfc773a864826130be75d526f12ebdd68ffb31047c59cc3b0db8cf20b78"
+  },
+  {
+    "source": "Programming_Assignment_V/TEST.c",
+    "destination": "assignments/assignment05-expression/archive/TEST.c",
+    "source_encoding": "cp950",
+    "source_sha256": "4749011956f21e232bc4029b089eab5d50d264eea161bfdc443b06a0cd499cbf",
+    "imported_sha256": "13fdc4306a7cfba602d2c204f7f9f817d9b409cbf37a3bda2cac873aade39265"
+  },
+  {
+    "source": "Programming_Assignment_V/test1.c",
+    "destination": "assignments/assignment05-expression/archive/test1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "97694f25863eca5e5399d8a38c10cc07000cd34abb0a18f17cabdf9a50c0e2c5",
+    "imported_sha256": "c038fcbf8f369ca22ca6a015aa32118e5e701318f302c054af2db9a3117856fe"
+  },
+  {
+    "source": "Programming_Assignment_V/新文件1.c",
+    "destination": "assignments/assignment05-expression/archive/新文件1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "74389a6c366f140c19bc899d8296812d7181654b924ee6f8b3f2758c8c95c51a",
+    "imported_sha256": "3e1e27b139b346c522726a6a6ae6e59106a4e0de0ff9298de06a7d4d45e2c931"
+  },
+  {
+    "source": "Programming_Assignment_V/新文件2.c",
+    "destination": "assignments/assignment05-expression/archive/新文件2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "37782f9c5340dae14901d6032b0b8bc6e0f7bb2989cfbd6ffc042e04d8892ab5",
+    "imported_sha256": "7d21bd84361fe18e00199d8a258c80a7cc92eeb75dd55a4844b7525a5e0585e1"
+  },
+  {
+    "source": "Programming_Assignment_V/新文件3.c",
+    "destination": "assignments/assignment05-expression/archive/新文件3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "3f5c4a3a1d3906ea4e7e953dc500903fe9c92d5b20156418c1bcea9cb2445fd2",
+    "imported_sha256": "2c0bb135f8324fe963cf96fa52fb08e98da49e7e536d4e828205845dd4212da5"
+  },
+  {
+    "source": "Programming_Assignment_V/新文件4.c",
+    "destination": "assignments/assignment05-expression/archive/新文件4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "4f32de89a8ad68ffbfe4130db3bbd511c0784764abf8e7e08bd87c4d4e7c64c1",
+    "imported_sha256": "a1a902cdc3861456bff9b1bdbb6db7c6c17bc05bb0f94b15b0c05187b757a239"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_1.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "988edd1b9106f2e68d086ecbddabee7368d0be95b0634687f29f220b6e77409d",
+    "imported_sha256": "53e3ce9b7ee789d345e08b58d1eca86f698ffe52a2c2a86cefd15134ee9ad966"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_2.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2eae3bd56955bce49381af35d41f94bc896a495b95607b36aa9c69da48dd80ad",
+    "imported_sha256": "ece22f2afb6e4d2815e2325609c1653bae63e4aa0e5b081a4370c1183b3e348e"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_3.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6d15289c5a53a824049b1fe8fbd0eb1bc6215aa9406a73885d9ed859c104b9f5",
+    "imported_sha256": "3cdfddf27b1f779d2ed7b46920736944a468fd06791be87ee0f6f9735dd963b1"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_4.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "429782b2887a4c96be50c2fce046013fcc526a9ac6770193d13b649a57bfd5eb",
+    "imported_sha256": "122895bd1737d217c2fe8f2fa5c72dff8dcac1d3dcaea761426ba77053a69da9"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_5.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_5.c",
+    "source_encoding": "cp950",
+    "source_sha256": "a6217e98cdc8bc564605a30ca2295e117f0a867f485fb5983c1f0857bdde7481",
+    "imported_sha256": "11b1e36e8216c258e5e61e34e503236b4f8dc9821fb2c1c771f2055012e8df2a"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_6.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_6.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6c06a538e24a3df275ee00230fb593b2f7e41a801867ca4e003d5013083e6a9a",
+    "imported_sha256": "bd81aaebb59677374e296ceb0c9c6995444c958944b5b03ecac43948dd8ae781"
+  },
+  {
+    "source": "Programming_Assignment_VI/6_7.c",
+    "destination": "assignments/assignment06-segment-tree/archive/6_7.c",
+    "source_encoding": "cp950",
+    "source_sha256": "082ee9a267004824bd511d483753ebe379b7f85f9222b980482426e0ce58f607",
+    "imported_sha256": "9c318888ca1dff6f839276a325349c41de55348345ec720e0dbfc8384124bf99"
+  },
+  {
+    "source": "Programming_Assignment_VI/Programming_Assignment_VI.c",
+    "destination": "assignments/assignment06-segment-tree/src/Programming_Assignment_VI.c",
+    "source_encoding": "cp950",
+    "source_sha256": "f5ed69cf80bb73bf5021c9594f4d4b0c5f684822ac4f87249ca3f05c846fb5e2",
+    "imported_sha256": "1154cc5f11c1b9ba1997a8c33e0da4a07bc82365d508dc2108b83e897420b69a"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_1.c",
+    "destination": "assignments/assignment07-huffman/archive/7_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "d79aebf69b6ff71b2b95d8d04217dcc5be0ad78700e3809a032aac3c0d6c2d6d",
+    "imported_sha256": "16b4aae455f9807cdd68e468705c353d808fb1eca92f521337704750010974d0"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_10.c",
+    "destination": "assignments/assignment07-huffman/archive/7_10.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6a035fcc855f9dd21b70baf2c0fe97c3ac0c4245ae360f6f36a0f271afd270cf",
+    "imported_sha256": "2794dcec8f51f822d477160d87bffd5f1f8e34a1fcf50115e9da06dd0641ecb2"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_11.c",
+    "destination": "assignments/assignment07-huffman/archive/7_11.c",
+    "source_encoding": "cp950",
+    "source_sha256": "78ae860dcbde260275fdbe4af19d91b3cc1b0e4d214b40fd5b05b0bb6913b034",
+    "imported_sha256": "923320468b2758fd64183c103a6c9d85335dcc62e73bae7026f0dcc5ea09ee46"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_12.c",
+    "destination": "assignments/assignment07-huffman/archive/7_12.c",
+    "source_encoding": "cp950",
+    "source_sha256": "fd328c8a98a4f014c07224f859ea2c868a47d82ddad9e2f8770c4f2a9bf0e6e8",
+    "imported_sha256": "0261d37cb016ac459f830d12fd7e13fb1b2dcdb5fea918b6c08239b64e00d0aa"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_13.c",
+    "destination": "assignments/assignment07-huffman/archive/7_13.c",
+    "source_encoding": "cp950",
+    "source_sha256": "5ace6a9386cf4e28e7be4015f118815cfb9710471b6af25689a7bf4428e5918c",
+    "imported_sha256": "82b2528071536be5a42c2fec5fefcfb1e424580a61cd75b1e8fdfc5b5f70640c"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_14.c",
+    "destination": "assignments/assignment07-huffman/src/7_14.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2f84253aa5c4d3ede8c226c65fcd1609d75e9bde243325d661a2bbe15890cf17",
+    "imported_sha256": "de9539f5205ff3757d630c3e3b47935356d3eab1e1e35b5584f963a49943ac9e"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_2.c",
+    "destination": "assignments/assignment07-huffman/archive/7_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "e5ade1f88fb6f3e65748d23486eedbfc1aff36c268bd69be4e75c59fd95581fb",
+    "imported_sha256": "b4e11492cc35d59741ae4b9e3355e5151a9fdd39eb6b1cb4238b95a3d6a68042"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_3.c",
+    "destination": "assignments/assignment07-huffman/archive/7_3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1f79acd9a1f0c6914cc03b15f0d0fcee4edb53b6002c9a62e4cede233cc05299",
+    "imported_sha256": "8742ac7c41fc168cfafc2604aa021824d2f6ceefae6db542cb8d097bc7abb9f7"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_4.c",
+    "destination": "assignments/assignment07-huffman/archive/7_4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6962f3f44fc844e44a7ed62485da308b56245363c8be05150221ec4a2a2d4560",
+    "imported_sha256": "1682803bf5feb46f18537075da1cf4aab45633892a4504b08394a8c91a2c2847"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_5.c",
+    "destination": "assignments/assignment07-huffman/archive/7_5.c",
+    "source_encoding": "cp950",
+    "source_sha256": "b6f634b1e16cb2f0dcde5b5c93fbcc8da5b66f1232cf636da5b16e8aaed2ebbf",
+    "imported_sha256": "cb0520dc1519bf8ee0084b9a66b3406dd3df154307cc2cd5b07ba377d3a298c0"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_6.c",
+    "destination": "assignments/assignment07-huffman/archive/7_6.c",
+    "source_encoding": "cp950",
+    "source_sha256": "2f41bff2257e46add163451a49e3787556f0a0c2d44bba255941826057f30953",
+    "imported_sha256": "b6d3cfd20356ae80319f4d13ffb1ced70bf2d06eae52c0d19d8d9c360aad0d23"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_7.c",
+    "destination": "assignments/assignment07-huffman/archive/7_7.c",
+    "source_encoding": "cp950",
+    "source_sha256": "bf2a8996874f1d4915229de4fafdad2869416bd88b92af577fd9fbada13e701b",
+    "imported_sha256": "c7222df55c9c6a9ab9d699c6c000aa705e1df3444cd9eb78b8cce8fba88ef0bb"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_8.c",
+    "destination": "assignments/assignment07-huffman/archive/7_8.c",
+    "source_encoding": "cp950",
+    "source_sha256": "36a755659ae012716c4352183034479f33cebd696910f955b96bd210eefdbdcf",
+    "imported_sha256": "7f0cbe24ca6561579e2f5142862bfc5215fb4748eb1f32d9e0b79500c5ad8b35"
+  },
+  {
+    "source": "Programming_Assignment_VII/7_9.c",
+    "destination": "assignments/assignment07-huffman/archive/7_9.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1b8399865108c6487cca8952cf08f5b84ba09063b4453ae6c23ab60849cb0afa",
+    "imported_sha256": "5e0b3297479952bf9561087c04148638be6775944885a51f21fa4639ecc7bc73"
+  },
+  {
+    "source": "Programming_Assignment_VII/test.c",
+    "destination": "assignments/assignment07-huffman/archive/test.c",
+    "source_encoding": "cp950",
+    "source_sha256": "322f63a53a6f714515bb4cd22f47d64c3791e5d201d9704ed50d203d4ddaf1b3",
+    "imported_sha256": "1b3f7ed08f0d5c2c8dd9075ac33f2c39d9817cef83fa98a4251e736609b04820"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_1.c",
+    "destination": "assignments/assignment08-mst/archive/8_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "3c433de9b2524e3d4f3a31a1ab6e021262ab3a79081e71c991104957e82a2080",
+    "imported_sha256": "95749a6f1b8e35b486e5f2d11653a9d9d92e8b1dfaaf7a8ed4e5182f890c5aa9"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_2.c",
+    "destination": "assignments/assignment08-mst/archive/8_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "a7d0269383f7f4f5694f2b5c1a1476bd481bacdecbe28016cfa223d79a629aff",
+    "imported_sha256": "f478ba970de53a6711f624cf3402aae7aef065e3b0fcbf2e8cf4899857456834"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_3.c",
+    "destination": "assignments/assignment08-mst/archive/8_3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "9ecbe913e3334ddbdc804284f779473acb6923f3082f20334cc56bbcd0650c75",
+    "imported_sha256": "19c1d1d5ddec0fcb7f591bfb14533dea69f160aab1cd3c3a566adb2faa394e56"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_4.c",
+    "destination": "assignments/assignment08-mst/archive/8_4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "f45be3857e15e6a6bac35c3fd78f0b4c4f156d0442c27c9eaafb8e007c6910ca",
+    "imported_sha256": "92ad980af35a7903320b03abcf2f8d073ba1d031eaf6901ff451561c1eba5a9b"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_5.c",
+    "destination": "assignments/assignment08-mst/src/8_5.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1c441fb8b4136541c3e03ac0954b1ea671f95773e5c0c82ba7f96acdf538d213",
+    "imported_sha256": "424d2ecfc0d8d8ec53d63a3b80bbb23303ceed27e71bea64ef1e79e7e805ae50"
+  },
+  {
+    "source": "Programming_Assignment_VIII/8_txt.c",
+    "destination": "assignments/assignment08-mst/src/8_txt.c",
+    "source_encoding": "cp950",
+    "source_sha256": "6c2c34f6bf79a67e9e469fdd8b98b6975dbd353a7bc7787d89b0368f1f0a6dc1",
+    "imported_sha256": "b2bb2e6f415ceac54a0142f5ad887aaf8a42f81d0f8ac05cf756959a77172b27"
+  },
+  {
+    "source": "Programming_Assignment_IX/9_4.c",
+    "destination": "assignments/assignment09-shortest-path/src/9_4.c",
+    "source_encoding": "cp950",
+    "source_sha256": "548f5b0c428e2c79648998fbd320528adbb62edd7cab017b79f5bb464d732438",
+    "imported_sha256": "45d3917129f4e633c516a2dab68e63206ec83f34bd68adad00e4a7123da30d0b"
+  },
+  {
+    "source": "Programming_Assignment_IX/9_txt.c",
+    "destination": "assignments/assignment09-shortest-path/src/9_txt.c",
+    "source_encoding": "cp950",
+    "source_sha256": "c3cb30e139a96620b419962a4bb5998ebf1982235e08f2e3e270b32ce898b5e6",
+    "imported_sha256": "8bc75b65d1a5fd5c9abab4fe8b103cc6ef10b0e34a430faaafc607f12f2d34b8"
+  },
+  {
+    "source": "Programming_Assignment_IX/old code/9_1.c",
+    "destination": "assignments/assignment09-shortest-path/archive/old code/9_1.c",
+    "source_encoding": "cp950",
+    "source_sha256": "4aca763ddb715e013136582e140c436160a5998875dc91312922b18bd0f2fdb7",
+    "imported_sha256": "7f69e7aeddac6473ea5267c26f4cab9c1f6b1120cea9ba19a0fa43dbc47bb615"
+  },
+  {
+    "source": "Programming_Assignment_IX/old code/9_2.c",
+    "destination": "assignments/assignment09-shortest-path/archive/old code/9_2.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1f08d02bcaef48a5f6424d73cfb16d33387cb98dd72f2a8aa41057d41ea2dbfa",
+    "imported_sha256": "79f21292af5e55b3c26afe3e514a50595816d63528f5e6f521849646d60ce6ef"
+  },
+  {
+    "source": "Programming_Assignment_IX/old code/9_3.c",
+    "destination": "assignments/assignment09-shortest-path/archive/old code/9_3.c",
+    "source_encoding": "cp950",
+    "source_sha256": "1163db44b7263bd9e530e76b83d5b39689ff84df17938e826968480f313275bf",
+    "imported_sha256": "4cb505927f3a973d07530d05d1fdc6a45ce02f8ff82b3f8f541d7f1581c08bc2"
+  },
+  {
+    "source": "Programming_Assignment_II/random_numbers.txt",
+    "destination": "assignments/assignment02-sorting/examples/random_numbers.txt",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "66443c3a5b223f7e596564319bfa34678fad120b639fc6cf0f4dae2dd467b6e2",
+    "imported_sha256": "7d6caa94411af8a42b4f84c94b7a3c3df83ce25ac2c24078cc0f997d3cf739e1"
+  },
+  {
+    "source": "Programming_Assignment_VII/input.txt",
+    "destination": "assignments/assignment07-huffman/examples/input.txt",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "49167b2efef9f86a509509bfce01beda1f872e338205f9414c1e3e4f0f2553f7",
+    "imported_sha256": "49167b2efef9f86a509509bfce01beda1f872e338205f9414c1e3e4f0f2553f7"
+  },
+  {
+    "source": "Programming_Assignment_VII/output.txt",
+    "destination": "assignments/assignment07-huffman/examples/output.txt",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "49167b2efef9f86a509509bfce01beda1f872e338205f9414c1e3e4f0f2553f7",
+    "imported_sha256": "49167b2efef9f86a509509bfce01beda1f872e338205f9414c1e3e4f0f2553f7"
+  },
+  {
+    "source": "Programming_Assignment_VIII/graph.txt",
+    "destination": "assignments/assignment08-mst/examples/graph.txt",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "6df55c3985d672c8c7cbdc9def920896050c680c8cf0b760ee2e82049f4f97a2",
+    "imported_sha256": "97012e94497d6b46870255b9216b2c795bd86dad516c51644173eee4d9437639"
+  },
+  {
+    "source": "Programming_Assignment_VIII/graph.dot",
+    "destination": "assignments/assignment08-mst/examples/graph.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "5cff9d89378df3d8b5ec7cd567cdf18311f79a9101f54018f98d603c18d848f7",
+    "imported_sha256": "d8002dd984d28f264526bc029427d8ce9820138f3315575e71e79a3c1eb4c2e0"
+  },
+  {
+    "source": "Programming_Assignment_VIII/mst.dot",
+    "destination": "assignments/assignment08-mst/examples/mst.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "cafcf19fca05bf92fe08c07e98908d386f08c39bc1c5e32cdf90454d8ecd99f3",
+    "imported_sha256": "ea99ff3182fc70b1b278e1856be0c38d3283cf10f9a8d73642d3ac98e9ad2e46"
+  },
+  {
+    "source": "Programming_Assignment_IX/graph.txt",
+    "destination": "assignments/assignment09-shortest-path/examples/graph.txt",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "d7b25a69abe0895085a0704c8b150ee98ac948a25f8a4de4c3a9771a50bced57",
+    "imported_sha256": "c0a7f254d8455df4f970be0aac0e7f072a878364bd4b779812f1d3c2a3893a73"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/original_graph.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/original_graph.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "ee74c7e2cba2160b96dfc6aaafd0e91df67d7e2bf2a8aea10a625b9ec5c09a60",
+    "imported_sha256": "f65fed9c11ec367d03e71c03b55e6953ac445e98f5e5e9dc20b00d9fbec3fec2"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/shortest_path_tree_0.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/shortest_path_tree_0.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "bfe9df9387d1d5a3ba64f4f112ba54786ce4ddda976582ab6c7d998f724cd5f5",
+    "imported_sha256": "8c2e8b7494fbd70b9012b56d5a1298a7b58494c9246c28560ec6287fb3042b53"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/shortest_path_tree_1.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/shortest_path_tree_1.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "bb6b8a8b4ec2c779964f06daaee8376baf81e8d7e16b8c6c9617408a19f1b73a",
+    "imported_sha256": "83587fb039f6ec3a2df69e8b99c1109e686e9cc5613328942fbe91e2f8ddbb35"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/shortest_path_tree_2.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/shortest_path_tree_2.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "bdfa1f2159f5174a28d4712aee06353510bb89c132901d60ecb8662c45367a6d",
+    "imported_sha256": "2f25895646d2e82d6924614275e44ff04ad8abb72cdc9cf0cec6799d55bc3f66"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/shortest_path_tree_3.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/shortest_path_tree_3.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "5da99275889888356646a90254f17ce899d15d9040ad6299d79c9fb9130a68da",
+    "imported_sha256": "cdde891c419a18ff09f00207afce94d087566f97045c9eefceee62a57da68e71"
+  },
+  {
+    "source": "Programming_Assignment_IX/5X6/shortest_path_tree_4.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/5x6/shortest_path_tree_4.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "a569ede158fc20d14a97021128ea711a50e9543f1d94e541e44b32b8b8af0cc0",
+    "imported_sha256": "6672f89524116f32c4025aafeefb0b4e1fb5d9ad504ba920cb3e9bcb4e2b7258"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/original_graph.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/original_graph.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "314ad32963b82761f70c6ffd3b5aab265caba5e10b476fa620f9e4b4465fcf53",
+    "imported_sha256": "51b6089ba1579b2564fc608a78e8d74f4b96d41966198bf5f2b678c6bf8c9dd1"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_0.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_0.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "72962fc3a7e9f2ba4586706e17844cc16fad280a819301b545243292aa1eb036",
+    "imported_sha256": "1344b8bead398739c6b5b7ae1ac8b6e3028f77a66a65b9a6c2c0ed8413b5735b"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_1.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_1.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "1c11f55c1c7dad2b028f03a214ff9a08877c3af8f4925c73a989b3926aaf0229",
+    "imported_sha256": "1f4285234e35e6297f361297dcc452330ed3a7bbda9503892546dd95645a2eff"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_2.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_2.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "a2b6479c5a058d5a4634564bd6f81d436932b6e1a3b5787dbcc1b92231232605",
+    "imported_sha256": "035c51c423ef4570a66e78431fe424e93d9e3e5a7beabae1c78733be479d3606"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_3.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_3.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "6e04142a627141a2731785bb7fa0f77278210c986700439f8621b8f8fc9bc64b",
+    "imported_sha256": "340d3fefcdf0150886e964e450e0bfa598ea38c75b9d43e829f932f188497d4d"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_4.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_4.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "ef3af6265a7dd3e0576b878d9b77c1a3c6bdb8af621c5198688209b87df02413",
+    "imported_sha256": "162207d0287229c80c560d75cc53de6be2fa893925c697ac4d86c29dc79545a2"
+  },
+  {
+    "source": "Programming_Assignment_IX/6X12/shortest_path_tree_5.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/6x12/shortest_path_tree_5.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "7b9fad5e9bf991756f49f02f3b517161ca171c0da4e06c736d42e2a9933ff033",
+    "imported_sha256": "769c838335f613457fe43c607362b6967b6a29a7166660cfbe4ccb610f7a723c"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/original_graph.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/original_graph.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "4ee56cea9f73e0f14dad219cd4bf3c56078da1329ccb0bf1949dfc56af31ec7b",
+    "imported_sha256": "e6becb4933094f96369bfe4cf7154ddb6e59eb956685d051c49ff07c7ecda639"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_0.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_0.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "203ac6b1200f9f3fbd30e208dbe7b53ec780c2665b359fb563e8bd2f0c225233",
+    "imported_sha256": "f1d98f1f45fa25f88dd7809f0b8d0f4729f22e0d6a3608d55fbd4c28b2618f7e"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_1.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_1.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "de8dcb1021295306854d2e31afcebd7c1d19acf9ad713cfd3eb63c91484fd005",
+    "imported_sha256": "5440c4aca2211353934c034240833f5dfdef1fd56d68689b3e13eb09ef957b1d"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_10.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_10.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "8974f8fb0f521abe61a9a9d3e2add0a904e99c8859cc6e70689ca9b0a3a2425b",
+    "imported_sha256": "f14283fc80715ea34366c585c6b6f9399b348339ba2f7d18699ed929330c1540"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_11.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_11.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "36cc43ca83d2f028ecf99de75626c7eadc78f05e15dfd7df489df9e1414a968c",
+    "imported_sha256": "af1396b45f0ce8d0f5c9ccf786362490c2e21cfd30f81c3fa77afbefc59af0f6"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_12.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_12.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "62cc9c75910db3895e74b48ccc52751f740af6a11e167b4bef80436179988a0a",
+    "imported_sha256": "adbc3334ad03f0869e92bad276d1b6abe473a1b45181ba52723062aeb68ada83"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_13.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_13.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "14c9a8c97d076858547dd865362d4205ffef1ab8c7569e5dcdbf55720abb16cf",
+    "imported_sha256": "e0f1187f8eae8373f17dbba499790f19a9e67884b48ba7b2abcd28d0d4efb845"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_14.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_14.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "fd1efb9e9b8d91492d27f65da86bd1256d3a82636b9660d201092a3bd98ad63b",
+    "imported_sha256": "f200740f02a57a5a44c3cc9a320f05dd22c016d1a5681c68fb361cf5c691a466"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_15.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_15.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "4846dfbf0070c7063493decaac2cc313d9d431944c3c20cebe6b2b99953f244f",
+    "imported_sha256": "2f5c22ec7e337aa73b9449b1e2a662ffcad979a71132ee3f2a4e220ab642f60d"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_16.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_16.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "bc6441206d4b2655fbb5234be97f61da950565581de1fc1fdab7250cd4b0469e",
+    "imported_sha256": "7527129292161bb099174f5d4adc95e898bf242a5a9acce49f5505b07cd39dc3"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_17.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_17.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "3a15082815cb6b31fca96139532970cf04644035059e398693178c57f810dda3",
+    "imported_sha256": "0d2668fbe59432d253ed6659f38023edf3c2a7dc2220a1aa16e3d6502ccc92a4"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_18.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_18.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "d3cb3c110455d8f82a581a8e71d5bea884c966ebf3a4f06a9360e5dab1f40f7f",
+    "imported_sha256": "73dbb101d495bd2384d4be3dcb33e386209bfef58e1d3ff25ec159099bbe27f6"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_19.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_19.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "cf534ddcb5d6f3ce5fca49a6942929ef28347c5b164b7067c5c1447ca5d08bc6",
+    "imported_sha256": "392013690cb9447e1cb488ec686eaa55b1e37aeb47c0eff0da83bd15fb824ad9"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_2.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_2.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "29f8c55ff4a47e507a68fff2909d3f261fc3252ba14e81f7bbd9e115364b88d9",
+    "imported_sha256": "0d6323fbc88421cd9709e3a54dec3d8a20090cb2de10cfd3a2ca5cd0b828df2e"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_3.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_3.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "8286213140c29de170261236f7469f3990817af4f754aac1452bdad260242bc9",
+    "imported_sha256": "e25e253fb009424ec7d5e6df6facaca52854fc3c7a7d0ca99794121eb5bb04e1"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_4.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_4.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "85cf3f0aceeba5fcdc137e10354b19d06bb2d23b5cd0f5bc2ffc06e6c15c9ee2",
+    "imported_sha256": "5d8408f09b85c010a026d05f5367ce1bef86aa7cc98d513254ed02758fa84c3c"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_5.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_5.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "3ccac4d3c054cf66154aca33e2ae8fd49ec8aea1daea6dad40a4b43d7d856be9",
+    "imported_sha256": "44a00ba0f7419b29a9d9148b8aa4822b00d64fd91ee899d604c1452e93821570"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_6.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_6.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "f5e585a3d22d41cd397b4c310db534cd326775e78103aeea3feaa7380a6dee6b",
+    "imported_sha256": "f9d65cfc809357f1f88859914a76c4dc8f27b40c8db66a087746412882cd33e6"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_7.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_7.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "52c8917424369377cbe2d064022983bef1d953dd08d65646a08e0bb57390d190",
+    "imported_sha256": "b625a1179061de7d9fd22608a73a575bcfed5a827d10bdd9b59c113d2117bda8"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_8.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_8.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "75123d1addbda3526efb90dc3df1dc3e3673fdec481b3af567712654264495af",
+    "imported_sha256": "5e08cb34b5312e58aec28573fdeb41826e16919dab84a12660db79403fe1926c"
+  },
+  {
+    "source": "Programming_Assignment_IX/20X40/shortest_path_tree_9.dot",
+    "destination": "assignments/assignment09-shortest-path/examples/20x40/shortest_path_tree_9.dot",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "426b54dde0b4388cb2319c2819f1eb9bee4b67ce5e4d056590da2230201e948e",
+    "imported_sha256": "4d5040e65594e711f0f9cc33ab2cb48af3fefef49a93b94faf20f6e2a73b5115"
+  },
+  {
+    "source": "0a-gcd.c",
+    "destination": "extras/0a-gcd.c",
+    "source_encoding": "utf-8-sig",
+    "source_sha256": "cd7d8099d79b25ae1436183d913a09d23693bce116c96927235d0ed0907bdfdf",
+    "imported_sha256": "9cb21730c6dd60cdb2052f81e9d7a75e5c3f502daa3b16c1fee779529d145640"
+  },
+  {
+    "source": "segment_tree.c",
+    "destination": "extras/segment_tree.c",
+    "source_encoding": "cp950",
+    "source_sha256": "68778b4e5d30b111597381ee23b6647649f1dfe7be676656a108fa05384e1fb9",
+    "imported_sha256": "3e9e97249872df66819e81274993a14ef2d69086d9c8a3868f0189a232bec111"
+  }
+]

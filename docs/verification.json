@@ -1,0 +1,532 @@
+{
+  "checked_on": "2026-10-05",
+  "compiler": "gcc.exe (GCC) 7.4.0",
+  "flags": [
+    "-std=gnu11",
+    "-D_POSIX_C_SOURCE=200809L",
+    "-O0",
+    "-Wall",
+    "-Wextra"
+  ],
+  "builds": [
+    {
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment02-sorting/archive/test.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment02-sorting/src/p2_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment02-sorting/src/P2_2.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment02-sorting/src/P2_2.c: In function 'main':\r\nassignments/assignment02-sorting/src/P2_2.c:204:38: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"1.Insertion Sort time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                    ~~^                   ~~~~~~~~~~~~~~~~\r\n                                    %lld\r\nassignments/assignment02-sorting/src/P2_2.c:222:38: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"2.Selection Sort time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                    ~~^                   ~~~~~~~~~~~~~~~~\r\n                                    %lld\r\nassignments/assignment02-sorting/src/P2_2.c:240:34: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"3.Quick Sort time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                ~~^                   ~~~~~~~~~~~~~~~~\r\n                                %lld\r\nassignments/assignment02-sorting/src/P2_2.c:258:34: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"4.Merge Sort time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                ~~^                   ~~~~~~~~~~~~~~~~\r\n                                %lld\r\nassignments/assignment02-sorting/src/P2_2.c:276:33: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"5.Heap Sort time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                               ~~^                   ~~~~~~~~~~~~~~~~\r\n                               %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment02-sorting/src/p2_3r.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment02-sorting/src/p2_3r.c: In function 'main':\r\nassignments/assignment02-sorting/src/p2_3r.c:197:35: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"插入排序時間: %ld.%09ld 秒\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                 ~~^               ~~~~~~~~~~~~~~~~\r\n                                 %lld\r\nassignments/assignment02-sorting/src/p2_3r.c:210:35: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"選擇排序時間: %ld.%09ld 秒\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                 ~~^               ~~~~~~~~~~~~~~~~\r\n                                 %lld\r\nassignments/assignment02-sorting/src/p2_3r.c:223:35: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"快速排序時間: %ld.%09ld 秒\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                 ~~^               ~~~~~~~~~~~~~~~~\r\n                                 %lld\r\nassignments/assignment02-sorting/src/p2_3r.c:236:35: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"合併排序時間: %ld.%09ld 秒\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                 ~~^               ~~~~~~~~~~~~~~~~\r\n                                 %lld\r\nassignments/assignment02-sorting/src/p2_3r.c:249:32: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"堆排序時間: %ld.%09ld 秒\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                              ~~^               ~~~~~~~~~~~~~~~~\r\n                              %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment02-sorting/src/p2_3s.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/bfs.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/display.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/g.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/input.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/p3_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/p3_2.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/P3_3.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/test.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/archive/test_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment03-maze/src/Programming_Assignment_III.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment03-maze/src/Programming_Assignment_III.c: In function 'main':\r\nassignments/assignment03-maze/src/Programming_Assignment_III.c:222:16: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\" %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n              ~~^                   ~~~~~~~~~~~~~~~~\r\n              %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/input.c",
+      "exit_code": 1,
+      "diagnostic": "assignments/assignment04-sparse-matrix/archive/input.c: In function 'main':\r\nassignments/assignment04-sparse-matrix/archive/input.c:69:14: error: 'createCharMa' undeclared (first use in this function); did you mean 'createCharMatrix'?\r\n     matrix = createCharMa trix(rows, cols);\r\n              ^~~~~~~~~~~~\r\n              createCharMatrix\r\nassignments/assignment04-sparse-matrix/archive/input.c:69:14: note: each undeclared identifier is reported only once for each function it appears in\r\nassignments/assignment04-sparse-matrix/archive/input.c:69:27: error: expected ';' before 'trix'\r\n     matrix = createCharMa trix(rows, cols);\r\n                           ^~~~\r\n"
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/linked_list.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/NEW_TEST4.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/p4.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/size.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment04-sparse-matrix/archive/size.c: In function 'main':\r\nassignments/assignment04-sparse-matrix/archive/size.c:14:35: warning: format '%lu' expects argument of type 'long unsigned int', but argument 2 has type 'long long unsigned int' [-Wformat=]\r\n         printf(\"Size of a Node: %lu bytes\\n\", sizeof(struct Node));  // 每個節點的記憶體\r\n                                 ~~^\r\n                                 %llu\r\n"
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/test.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/archive/test_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment04-sparse-matrix/src/Programming_Assignment_IV.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/p5.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/TEST.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/test1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/新文件1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/新文件2.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/新文件3.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/archive/新文件4.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment05-expression/src/Programming_Assignment_V.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_2.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment06-segment-tree/archive/6_2.c: In function 'main':\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:36: warning: implicit declaration of function 'ceil' [-Wimplicit-function-declaration]\r\n     int treeSize = 2 * (1 << ((int)ceil(log2(n)))) - 1;\r\n                                    ^~~~\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:36: warning: incompatible implicit declaration of built-in function 'ceil'\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:36: note: include '<math.h>' or provide a declaration of 'ceil'\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:41: warning: implicit declaration of function 'log2' [-Wimplicit-function-declaration]\r\n     int treeSize = 2 * (1 << ((int)ceil(log2(n)))) - 1;\r\n                                         ^~~~\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:41: warning: incompatible implicit declaration of built-in function 'log2'\r\nassignments/assignment06-segment-tree/archive/6_2.c:72:41: note: include '<math.h>' or provide a declaration of 'log2'\r\n"
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_3.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment06-segment-tree/archive/6_3.c: In function 'main':\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:36: warning: implicit declaration of function 'ceil' [-Wimplicit-function-declaration]\r\n     int treeSize = 2 * (1 << ((int)ceil(log2(n)))) - 1;\r\n                                    ^~~~\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:36: warning: incompatible implicit declaration of built-in function 'ceil'\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:36: note: include '<math.h>' or provide a declaration of 'ceil'\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:41: warning: implicit declaration of function 'log2' [-Wimplicit-function-declaration]\r\n     int treeSize = 2 * (1 << ((int)ceil(log2(n)))) - 1;\r\n                                         ^~~~\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:41: warning: incompatible implicit declaration of built-in function 'log2'\r\nassignments/assignment06-segment-tree/archive/6_3.c:73:41: note: include '<math.h>' or provide a declaration of 'log2'\r\n"
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_4.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_5.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_6.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment06-segment-tree/archive/6_6.c: In function 'performanceTest':\r\nassignments/assignment06-segment-tree/archive/6_6.c:100:59: warning: format '%ld' expects argument of type 'long int', but argument 3 has type 'time_t {aka long long int}' [-Wformat=]\r\n         printf(\"Segment Tree Query Time for %d queries: %ld.%09ld seconds\\n\", m, time_diff.tv_sec, time_diff.tv_nsec);\r\n                                                         ~~^                      ~~~~~~~~~~~~~~~~\r\n                                                         %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/archive/6_7.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment06-segment-tree/archive/6_7.c: In function 'main':\r\nassignments/assignment06-segment-tree/archive/6_7.c:119:40: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Segment Tree Query Time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                      ~~^                   ~~~~~~~~~~~~~~~~\r\n                                      %lld\r\nassignments/assignment06-segment-tree/archive/6_7.c:133:39: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Brute Force Query Time: %ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n                                     ~~^                   ~~~~~~~~~~~~~~~~\r\n                                     %lld\r\nassignments/assignment06-segment-tree/archive/6_7.c:137:15: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"%ld.%09ld seconds\\n\", time_diff.tv_sec, time_diff.tv_nsec);\r\n             ~~^                   ~~~~~~~~~~~~~~~~\r\n             %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment06-segment-tree/src/Programming_Assignment_VI.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_1.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_1.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_1.c:50:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < minHeap->size && minHeap->array[left]->freq < minHeap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_1.c:53:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < minHeap->size && minHeap->array[right]->freq < minHeap->array[smallest]->freq)\r\n               ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_10.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_10.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_10.c:53:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_10.c:56:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_10.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_10.c:118:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_11.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_11.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_11.c:53:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_11.c:56:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_11.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_11.c:118:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_12.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_12.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_12.c:57:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_12.c:60:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_12.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_12.c:122:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_13.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_13.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_13.c:58:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_13.c:61:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_13.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_13.c:124:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_2.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_2.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_2.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < minHeap->size && minHeap->array[left]->freq < minHeap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_2.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < minHeap->size && minHeap->array[right]->freq < minHeap->array[smallest]->freq)\r\n               ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_3.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_3.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_3.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_3.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_3.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_3.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_4.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_4.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_4.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_4.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_4.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_4.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\nassignments/assignment07-huffman/archive/7_4.c: In function 'main':\r\nassignments/assignment07-huffman/archive/7_4.c:201:37: warning: passing argument 3 of 'compressFile' from incompatible pointer type [-Wincompatible-pointer-types]\r\n     compressFile(input, compressed, arr);\r\n                                     ^~~\r\nassignments/assignment07-huffman/archive/7_4.c:140:6: note: expected 'char (*)[256]' but argument is of type 'int *'\r\n void compressFile(FILE* input, FILE* output, char codes[][MAX_TREE_HT]) {\r\n      ^~~~~~~~~~~~\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_5.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_5.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_5.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_5.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_5.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_5.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_6.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_6.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_6.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_6.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_6.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_6.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_7.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_7.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_7.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_7.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_7.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_7.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_8.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_8.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_8.c:52:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_8.c:55:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_8.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_8.c:117:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/7_9.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/archive/7_9.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/archive/7_9.c:53:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/archive/7_9.c:56:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/archive/7_9.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/archive/7_9.c:118:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\n"
+    },
+    {
+      "source": "assignments/assignment07-huffman/archive/test.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment07-huffman/src/7_14.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment07-huffman/src/7_14.c: In function 'minHeapify':\r\nassignments/assignment07-huffman/src/7_14.c:54:14: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (left < heap->size && heap->array[left]->freq < heap->array[smallest]->freq)\r\n              ^\r\nassignments/assignment07-huffman/src/7_14.c:57:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]\r\n     if (right < heap->size && heap->array[right]->freq < heap->array[smallest]->freq)\r\n               ^\r\nassignments/assignment07-huffman/src/7_14.c: In function 'generateCodes':\r\nassignments/assignment07-huffman/src/7_14.c:120:21: warning: array subscript has type 'char' [-Wchar-subscripts]\r\n         strcpy(codes[root->data], code);\r\n                     ^\r\nassignments/assignment07-huffman/src/7_14.c: In function 'main':\r\nassignments/assignment07-huffman/src/7_14.c:390:33: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Compression time: %ld.%09ld seconds\\n\", compressionTime.tv_sec, compressionTime.tv_nsec);\r\n                               ~~^                   ~~~~~~~~~~~~~~~~~~~~~~\r\n                               %lld\r\nassignments/assignment07-huffman/src/7_14.c:400:35: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Decompression time: %ld.%09ld seconds\\n\", decompressionTime.tv_sec, decompressionTime.tv_nsec);\r\n                                 ~~^                   ~~~~~~~~~~~~~~~~~~~~~~~~\r\n                                 %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment08-mst/archive/8_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment08-mst/archive/8_2.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment08-mst/archive/8_3.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment08-mst/archive/8_4.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment08-mst/archive/8_4.c: In function 'main':\r\nassignments/assignment08-mst/archive/8_4.c:179:27: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Time taken: %ld.%09ld seconds\\n\", duration.tv_sec, duration.tv_nsec);\r\n                         ~~^                   ~~~~~~~~~~~~~~~\r\n                         %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment08-mst/src/8_5.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment08-mst/src/8_5.c: In function 'main':\r\nassignments/assignment08-mst/src/8_5.c:181:27: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Time taken: %ld.%09ld seconds\\n\", duration.tv_sec, duration.tv_nsec);\r\n                         ~~^                   ~~~~~~~~~~~~~~~\r\n                         %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment08-mst/src/8_txt.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment09-shortest-path/archive/old code/9_1.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment09-shortest-path/archive/old code/9_2.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "assignments/assignment09-shortest-path/archive/old code/9_3.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment09-shortest-path/archive/old code/9_3.c: In function 'main':\r\nassignments/assignment09-shortest-path/archive/old code/9_3.c:216:27: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Time taken: %ld.%09ld seconds\\n\", duration.tv_sec, duration.tv_nsec);\r\n                         ~~^                   ~~~~~~~~~~~~~~~\r\n                         %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment09-shortest-path/src/9_4.c",
+      "exit_code": 0,
+      "diagnostic": "assignments/assignment09-shortest-path/src/9_4.c: In function 'main':\r\nassignments/assignment09-shortest-path/src/9_4.c:241:27: warning: format '%ld' expects argument of type 'long int', but argument 2 has type 'time_t {aka long long int}' [-Wformat=]\r\n     printf(\"Time taken: %ld.%09ld seconds\\n\", duration.tv_sec, duration.tv_nsec);\r\n                         ~~^                   ~~~~~~~~~~~~~~~\r\n                         %lld\r\n"
+    },
+    {
+      "source": "assignments/assignment09-shortest-path/src/9_txt.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "extras/0a-gcd.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    },
+    {
+      "source": "extras/segment_tree.c",
+      "exit_code": 0,
+      "diagnostic": ""
+    }
+  ],
+  "checks": [
+    {
+      "name": "date-weekday",
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "2019/9/20\n",
+      "stdout": "Enter a date operation in one of the following formats:\n1. yyyy/mm/dd (e.g., 2019/9/20): to get the day of the week for a specific date.\n2. yyyy/mm/dd - YYYY/MM/DD (e.g., 2018/9/20 - 2019/9/20): to calculate the number of days between two dates.\n3. yyyy/mm/dd + x (e.g., 2019/9/20 + 365 or 2019/9/20 +-65): to add or subtract a\ncertain number of days to/from a specific date.\nEnter a date operation: September 20, 2019 is Friday.\n",
+      "stderr": ""
+    },
+    {
+      "name": "date-leap-day",
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "2024/2/28 + 1\n",
+      "stdout": "Enter a date operation in one of the following formats:\n1. yyyy/mm/dd (e.g., 2019/9/20): to get the day of the week for a specific date.\n2. yyyy/mm/dd - YYYY/MM/DD (e.g., 2018/9/20 - 2019/9/20): to calculate the number of days between two dates.\n3. yyyy/mm/dd + x (e.g., 2019/9/20 + 365 or 2019/9/20 +-65): to add or subtract a\ncertain number of days to/from a specific date.\nEnter a date operation: 1 days after February 28, 2024 is February 29, 2024\n",
+      "stderr": ""
+    },
+    {
+      "name": "date-backward",
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "2024/3/1 + -1\n",
+      "stdout": "Enter a date operation in one of the following formats:\n1. yyyy/mm/dd (e.g., 2019/9/20): to get the day of the week for a specific date.\n2. yyyy/mm/dd - YYYY/MM/DD (e.g., 2018/9/20 - 2019/9/20): to calculate the number of days between two dates.\n3. yyyy/mm/dd + x (e.g., 2019/9/20 + 365 or 2019/9/20 +-65): to add or subtract a\ncertain number of days to/from a specific date.\nEnter a date operation: 1 days before March 01, 2024 is February 29, 2024\n",
+      "stderr": ""
+    },
+    {
+      "name": "date-difference",
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "2018/9/20 - 2019/9/20\n",
+      "stdout": "Enter a date operation in one of the following formats:\n1. yyyy/mm/dd (e.g., 2019/9/20): to get the day of the week for a specific date.\n2. yyyy/mm/dd - YYYY/MM/DD (e.g., 2018/9/20 - 2019/9/20): to calculate the number of days between two dates.\n3. yyyy/mm/dd + x (e.g., 2019/9/20 + 365 or 2019/9/20 +-65): to add or subtract a\ncertain number of days to/from a specific date.\nEnter a date operation: 365 days from September 20, 2019 to September 20, 2018.\n",
+      "stderr": ""
+    },
+    {
+      "name": "date-invalid",
+      "source": "assignments/assignment01-date/src/Programming_Assignment_I.c",
+      "passed": true,
+      "exit_code": 1,
+      "input": "2023/2/29\n",
+      "stdout": "Enter a date operation in one of the following formats:\n1. yyyy/mm/dd (e.g., 2019/9/20): to get the day of the week for a specific date.\n2. yyyy/mm/dd - YYYY/MM/DD (e.g., 2018/9/20 - 2019/9/20): to calculate the number of days between two dates.\n3. yyyy/mm/dd + x (e.g., 2019/9/20 + 365 or 2019/9/20 +-65): to add or subtract a\ncertain number of days to/from a specific date.\nEnter a date operation: Invalid input format.\n",
+      "stderr": ""
+    },
+    {
+      "name": "maze-shortest-path",
+      "source": "assignments/assignment03-maze/src/Programming_Assignment_III.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "4 5\n2 x 0\n2 s 4 x 0\n3 x 0\n2 x 4 x 5 t 0\n",
+      "stdout": "Please enter the size of the maze (rows and columns):\nPlease enter the elements for row 1 (end with '0'):\nPlease enter the elements for row 2 (end with '0'):\nPlease enter the elements for row 3 (end with '0'):\nPlease enter the elements for row 4 (end with '0'):\nThe maze M:\n0 x 0 0 0 \n0 s 0 x 0 \n0 0 x 0 0 \n0 x 0 x t \n(2,2) -> (2,3) -> (1,3) -> (1,4) -> (1,5) -> (2,5) -> (3,5) -> (4,5)\nThe path can also be shown in the rectangular matrix:\n0 x 2 3 4 \n0 s 1 x 5 \n0 0 x 0 6 \n0 x 0 x t \n 0.000006200 seconds\n",
+      "stderr": ""
+    },
+    {
+      "name": "maze-unreachable",
+      "source": "assignments/assignment03-maze/src/Programming_Assignment_III.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "1 3\n1 s 2 x 3 t 0\n",
+      "stdout": "Please enter the size of the maze (rows and columns):\nPlease enter the elements for row 1 (end with '0'):\nThe maze M:\ns x t \nNo path found from S to T.\n 0.000001000 seconds\n",
+      "stderr": ""
+    },
+    {
+      "name": "sparse-matrix",
+      "source": "assignments/assignment04-sparse-matrix/src/Programming_Assignment_IV.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "2 2\n1 1 0\n1 1 0\n2 2\n2 2 0\n2 2 0\n",
+      "stdout": "Please enter the size of matrix A (rows and columns):\nPlease enter the elements for row 1 (end with '0'):\nPlease enter the elements for row 2 (end with '0'):\nPlease enter the size of matrix B (rows and columns):\nPlease enter the elements for row 1 (end with '0'):\nPlease enter the elements for row 2 (end with '0'):\nMatrix A:\n1 0 \n1 0 \nRow 1: (1, 1) \nRow 2: (1, 1) \nTotal memory units required: 8\nTranspose of A:\n1 1 \n0 0 \nRow 1: (1, 1) (2, 1) \nRow 2: \nTotal memory units required for Transpose of A: 8\nMatrix B:\n0 2 \n0 2 \nRow 1: (2, 2) \nRow 2: (2, 2) \nTotal memory units required: 8\nTranspose of B:\n0 0 \n2 2 \nRow 1: \nRow 2: (1, 2) (2, 2) \nTotal memory units required for Transpose of B: 8\nResult of A + B:\n1 2 \n1 2 \nRow 1: (1, 1) (2, 2) \nRow 2: (1, 1) (2, 2) \nTotal memory units required: 16\nTranspose of A + B:\n1 1 \n2 2 \nRow 1: (1, 1) (2, 1) \nRow 2: (1, 2) (2, 2) \nTotal memory units required for Transpose of A + B: 16\nResult of A * B:\n0 2 \n0 2 \nRow 1: (2, 2) \nRow 2: (2, 2) \nTotal memory units required: 8\nTranspose of A * B:\n0 0 \n2 2 \nRow 1: \nRow 2: (1, 2) (2, 2) \nTotal memory units required for Transpose of A * B: 8\n",
+      "stderr": ""
+    },
+    {
+      "name": "expression-values",
+      "source": "assignments/assignment05-expression/src/Programming_Assignment_V.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "1 + 2 * 3\n(1 + 2) * (3 - 4) / 5\na = 7\nb = 4 * a + 5\nb\n",
+      "stdout": "Enter expressions or assignments (Ctrl+Z to end):\nResult: 7\nResult: -0.6\nAssigned a = 7\nAssigned b = 33\nResult: 33\n",
+      "stderr": ""
+    },
+    {
+      "name": "expression-undefined-current-behavior",
+      "source": "assignments/assignment05-expression/src/Programming_Assignment_V.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "z + 1\n",
+      "stdout": "Enter expressions or assignments (Ctrl+Z to end):\nResult: 1\n",
+      "stderr": ""
+    },
+    {
+      "name": "expression-zero-division",
+      "source": "assignments/assignment05-expression/src/Programming_Assignment_V.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "10 / (5 - 5)\n",
+      "stdout": "Enter expressions or assignments (Ctrl+Z to end):\nError: Division by zero.\nResult: nan\n",
+      "stderr": ""
+    },
+    {
+      "name": "segment-tree-query",
+      "source": "assignments/assignment06-segment-tree/src/Programming_Assignment_VI.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "8\n4\n0 7\n2 5\n0 0\n7 7\n",
+      "stdout": "Enter size of array (n): Randomly generated array: 35 -45 26 -34 -34 -36 45 1 \nEnter number of queries (m): Enter query (l r): Segment Tree Max: 45, Brute Force Max: 45\nEnter query (l r): Segment Tree Max: 26, Brute Force Max: 26\nEnter query (l r): Segment Tree Max: 35, Brute Force Max: 35\nEnter query (l r): Segment Tree Max: 1, Brute Force Max: 1\n",
+      "stderr": ""
+    },
+    {
+      "name": "huffman-roundtrip",
+      "source": "assignments/assignment07-huffman/src/7_14.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "",
+      "stdout": "File 'input.txt' of size 1KB created successfully with random content.\nCompression time: 0.000049500 seconds\nDecompression time: 0.000166700 seconds\n\u001b[1;32mAre the files different? Compression and decompression check:\u001b[0m\n\u001b[1;32mThe files are identical. Compression and decompression were successful.\u001b[0m\nOriginal file size: 1024 bytes\nCompressed file size: 608 bytes\nReduction in size: 416 bytes\nCompression ratio: 168.42%\n",
+      "stderr": "",
+      "original_bytes": 1024,
+      "compressed_bytes": 608,
+      "byte_equal": true
+    },
+    {
+      "name": "kruskal-mst",
+      "source": "assignments/assignment08-mst/src/8_5.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "",
+      "stdout": "Graph read from file:\n0 -- 1 == 2\n0 -- 2 == 5\n1 -- 2 == 1\n1 -- 3 == 3\n2 -- 4 == 2\n3 -- 4 == 1\n\nSaving original graph to graph.dot...\nOriginal graph saved to graph.dot\n\nComputing MST using Kruskal's Algorithm...\nEdges in MST:\n3 -- 4 == 1\n1 -- 2 == 1\n2 -- 4 == 2\n0 -- 1 == 2\nTotal weight: 6\nMST graph saved to mst.dot\nTime taken: 0.000695400 seconds\n",
+      "stderr": ""
+    },
+    {
+      "name": "dijkstra-shortest-path",
+      "source": "assignments/assignment09-shortest-path/src/9_4.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "\n",
+      "stdout": "Press any key to continue . . . \nOriginal graph DOT file written: original_graph.dot\n\nShortest Paths from Vertex 0:\nTo Vertex 0: 0 (Distance: 0)\nTo Vertex 1: 0 -> 1 (Distance: 2)\nTo Vertex 2: 0 -> 1 -> 2 (Distance: 3)\nTo Vertex 3: 0 -> 1 -> 3 (Distance: 5)\nTo Vertex 4: 0 -> 1 -> 2 -> 4 (Distance: 5)\nShortest path tree DOT file written: shortest_path_tree_0.dot\n\nShortest Paths from Vertex 1:\nTo Vertex 0: 1 -> 0 (Distance: 2)\nTo Vertex 1: 1 (Distance: 0)\nTo Vertex 2: 1 -> 2 (Distance: 1)\nTo Vertex 3: 1 -> 3 (Distance: 3)\nTo Vertex 4: 1 -> 2 -> 4 (Distance: 3)\nShortest path tree DOT file written: shortest_path_tree_1.dot\n\nShortest Paths from Vertex 2:\nTo Vertex 0: 2 -> 1 -> 0 (Distance: 3)\nTo Vertex 1: 2 -> 1 (Distance: 1)\nTo Vertex 2: 2 (Distance: 0)\nTo Vertex 3: 2 -> 4 -> 3 (Distance: 3)\nTo Vertex 4: 2 -> 4 (Distance: 2)\nShortest path tree DOT file written: shortest_path_tree_2.dot\n\nShortest Paths from Vertex 3:\nTo Vertex 0: 3 -> 1 -> 0 (Distance: 5)\nTo Vertex 1: 3 -> 1 (Distance: 3)\nTo Vertex 2: 3 -> 4 -> 2 (Distance: 3)\nTo Vertex 3: 3 (Distance: 0)\nTo Vertex 4: 3 -> 4 (Distance: 1)\nShortest path tree DOT file written: shortest_path_tree_3.dot\n\nShortest Paths from Vertex 4:\nTo Vertex 0: 4 -> 2 -> 1 -> 0 (Distance: 5)\nTo Vertex 1: 4 -> 2 -> 1 (Distance: 3)\nTo Vertex 2: 4 -> 2 (Distance: 2)\nTo Vertex 3: 4 -> 3 (Distance: 1)\nTo Vertex 4: 4 (Distance: 0)\nShortest path tree DOT file written: shortest_path_tree_4.dot\nTime taken: 0.003719700 seconds\n",
+      "stderr": "",
+      "source_zero_distances": [
+        0,
+        2,
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "name": "gcd",
+      "source": "extras/0a-gcd.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "48 18\n-48 18\n0 9\n",
+      "stdout": "(48, 18) = 6\n(-48, 18) = 6\n(0, 9) = 9\n",
+      "stderr": ""
+    },
+    {
+      "name": "segment-tree-sum-extra",
+      "source": "extras/segment_tree.c",
+      "passed": true,
+      "exit_code": 0,
+      "input": "",
+      "stdout": "Sum of range [1, 3]: 15\nSum of range [1, 3] after update: 16\n",
+      "stderr": ""
+    },
+    {
+      "name": "sorting-five-algorithms",
+      "source": "assignments/assignment02-sorting/src/P2_2.c",
+      "passed": true,
+      "exit_code": 0,
+      "sorted_checks": 5,
+      "stdout": "Original data:\r\n61 17422 15215 7040 15521 6516 30152 11794 27727 20344 4818 28409 25042 17801 12042 6215 63 24189 15812 15512 \r\n1.Insertion Sort time: 0.000000500 seconds\r\nData after Insertion Sort:\r\n61 63 4818 6215 6516 7040 11794 12042 15215 15512 15521 15812 17422 17801 20344 24189 25042 27727 28409 30152 \r\nArray sorted correctly!\r\n2.Selection Sort time: 0.000000700 seconds\r\nData after Selection Sort:\r\n61 63 4818 6215 6516 7040 11794 12042 15215 15512 15521 15812 17422 17801 20344 24189 25042 27727 28409 30152 \r\nArray sorted correctly!\r\n3.Quick Sort time: 0.000001000 seconds\r\nData after Quick Sort:\r\n61 63 4818 6215 6516 7040 11794 12042 15215 15512 15521 15812 17422 17801 20344 24189 25042 27727 28409 30152 \r\nArray sorted correctly!\r\n4.Merge Sort time: 0.000001500 seconds\r\nData after Merge Sort:\r\n61 63 4818 6215 6516 7040 11794 12042 15215 15512 15521 15812 17422 17801 20344 24189 25042 27727 28409 30152 \r\nArray sorted correctly!\r\n5.Heap Sort time: 0.000000800 seconds\r\nData after Heap Sort:\r\n61 63 4818 6215 6516 7040 11794 12042 15215 15512 15521 15812 17422 17801 20344 24189 25042 27727 28409 30152 \r\nArray sorted correctly!\r\n"
+    }
+  ],
+  "summary": {
+    "source_count": 68,
+    "compiled": 67,
+    "checks": 18,
+    "passed": 18
+  }
+}
